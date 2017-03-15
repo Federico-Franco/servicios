@@ -571,7 +571,10 @@ h6,
   color: #efefef;
 }
 #form1-b .form-control-label {
-  color: #28324e;
+  color: #ffffff;
+}
+#form1-b SMALL {
+  color: #efefef;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;

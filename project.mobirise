@@ -380,13 +380,13 @@
           "_name": "form1",
           "_anchor": "form1-b",
           "_params": {
-            "labelsColor": "#28324e",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#d9d9e1",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#5a5f6e",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -426,7 +426,10 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contáctanos</a>",
           "_styles": {
             ".form-control-label": {
-              "color": "#28324e"
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#efefef"
             }
           }
         },
