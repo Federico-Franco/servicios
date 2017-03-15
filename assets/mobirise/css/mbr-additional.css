@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 
 
 
@@ -427,6 +428,7 @@ h6,
 }
 #menu-2 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-2 .navbar-toggler {
   color: #ffffff;
@@ -493,11 +495,14 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -561,11 +566,12 @@ h6,
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #header1-1 .mbr-section-lead {
   text-align: left;
 }
+
 
 #header1-4 .mbr-section-title {
   color: #efefef;
@@ -581,6 +587,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -644,7 +652,7 @@ h6,
   background-color: #ffffff;
 }
 #menu-0 .btn {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #social-buttons4-8 .mbr-section-title,
 #social-buttons4-8 .btn-social {
