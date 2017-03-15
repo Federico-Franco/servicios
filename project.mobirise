@@ -24,7 +24,7 @@
     "versionFirst": "3.12",
     "uniqCompNum": 10,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/vision-agil-1.svg",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
@@ -450,7 +450,8 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/25.svg",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vision-agil-170x128.png",
               "height": 128,
               "alt": "Federico Franco",
               "link": "mailto:federico.franco.u@hotmail.com",
@@ -465,8 +466,7 @@
               "link": "mailto:federico.franco.u@hotmail.com",
               "size": 0,
               "newWindow": false,
-              "color": "",
-              "active": true
+              "color": ""
             }
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:federico.franco.u@hotmail.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Consultoría Ágil</a>",
