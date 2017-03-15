@@ -570,6 +570,9 @@ h6,
 #header1-4 .mbr-section-title {
   color: #efefef;
 }
+#form1-b .form-control-label {
+  color: #28324e;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
